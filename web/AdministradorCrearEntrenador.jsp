@@ -53,10 +53,6 @@
                     out.println(T);
                 }
                 //avisando que se hizo la instruccion
-            } else {
-                out.println("NO");
-            }
-
         %>
 
 
