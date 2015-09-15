@@ -115,13 +115,11 @@
 
             <div class="social">
                 <ul>
-                    <li><a href="http://www.facebook.com/falconmasters" target="_blank" class="icon-facebook">Facebook</a></li>
+                    <li><a href="https://www.facebook.com/profile.php?id=100009867019062" target="_blank" class="icon-facebook">Facebook</a></li>
                     <p></p>
-                    <li><a href="http://www.googleplus.com/falconmasters" target="_blank" class="icon-googleplus">Google+</a></li>
-                    <p></p>
-                    <li><a href="http://www.pinterest.com/falconmasters" target="_blank" class="icon-pinterest">Pinterest</a></li>
-                    <p></p>
-                    <li><a href="mailto:contacto@falconmasters.com" class="icon-mail">Mail</a></li>
+                    <li><a href="https://plus.google.com/u/0/?hl=es-419" target="_blank" class="icon-googleplus">Google+</a></li>
+                    <p></p> 
+                    <li><a href="mailto:gymunac@gmail.com" class="icon-mail">Mail</a></li>
                 </ul>
             </div>
         </aside>
