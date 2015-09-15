@@ -108,7 +108,7 @@
             </article>
 
             <section>
-                <div id="textoPr-1">
+                <div id="textoPr">
                     <article>
                         <hgroup>
                             <h1>
@@ -123,7 +123,7 @@
 
                     </aside>
                 </div>
-                <div id="textoPr2-1">
+                <div id="textoPr2">
                     <hgroup>
                         <h2>
                             <a href="Contactenos.jsp" class="but">¡NUESTRA UBICACIÓN Y HORARIOS!</a> 
